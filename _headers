@@ -1,0 +1,8 @@
+/html/*
+  X-Robots-Tag: noindex
+
+/json/*
+  X-Robots-Tag: noindex
+
+/md/*
+  X-Robots-Tag: noindex
